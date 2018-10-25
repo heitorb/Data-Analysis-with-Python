@@ -27,9 +27,9 @@ Table of Contents
 
 ---
 
-## [Ch. 1: Introduction]
+## [Ch. 1: Introduction]()
 
-## [Ch 2: Python Packages]
+## [Ch 2: Python Packages]()
 
 
-## [Ch 3: NumPy ]
+## [Ch 3: NumPy ]()
