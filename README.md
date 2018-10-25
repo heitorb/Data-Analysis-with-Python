@@ -1,6 +1,6 @@
 <img src="" data-canonical-src="" width="400" height="250" />
 
-# [Data Analysis with Python: Mastering Python Packages for Data Analysis]()
+# [Data Analysis with Python]()
 
 ## []()
 
@@ -24,3 +24,12 @@ Table of Contents
   * [Ch 10: NLTK](#ch-2-)
   * [Ch 11: DEAP](#ch-2-)
   * [Ch 12: BioPython](#ch-2-)
+
+---
+
+## [Ch. 1: Introduction]
+
+## [Ch 2: Python Packages]
+
+
+## [Ch 3: NumPy ]
