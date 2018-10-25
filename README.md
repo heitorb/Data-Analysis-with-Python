@@ -33,6 +33,7 @@ Table of Contents
 
 ## [Ch. 1: Introduction]()
 
+
 ## [Ch 2: Python Packages]()
 
 
@@ -46,7 +47,12 @@ Table of Contents
 
 ## [Ch 7: Data Wrangling: Clean, Transform, Merge, Reshape](#ch-2-)
 ##  [Ch 8: Data Visualization](#ch-2-)
+
+1. 
+
 ##  [Ch 9: Seaborn](#ch-2-)
+
+
 ##  [Ch 10: Bokeh](#ch-2-)
 ##  [Ch 11: Machine Learning](#ch-2-)
 ##  [Ch 12: Scikit-Learn](#ch-2-)
