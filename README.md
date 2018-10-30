@@ -13,21 +13,70 @@ Table of Contents
 =================
 
   * [Ch 1: Introduction](#ch-1-)
+  
   * [Ch 2: Python Packages](#ch-2-)
+  
+- Matplotlib
+- Pandas
+- Numpy
+- SciPy
+- Seaborn
+- Bokeh
+- Networkx
+- Plotly: Data visualization (pip install plotly)
+- MssingNo: Data cleaning (pip install missingno)
+- Pandas Profiling: (pip install pandas-profiling)
+- Dask: (pip install dask)
+- Auto-sklearn: (pip install auto-sklearn)
+- FeatureTools: (pip install featuretools)
+- ANN Visualizer: (pip install ann_visualizer)
+- Numba: (pip install numba)
+  
   * [Ch 3: NumPy](#ch-2-)
+  
   * [Ch 4: SciPy](#ch-2-)
+  
   * [Ch 5: Matplotlib](#ch-2-)
+  
+- Pyplot
+- Pylab
+- Sample Plot
+- Styling with cycler
+- Path
+- Colors
+- Text
+- Toolkits
+  
   * [Ch 6: Pandas](#ch-2-)
+  
+ <b>Pandas</b> is an open source Python library for data analysis. It gives Python the
+ability to work with spreadsheet-like data for fast data loading, manipulating,
+aligning, merging, etc.
+
+
+  
   * [Ch 7: Data Wrangling: Clean, Transform, Merge, Reshape](#ch-2-)
+  
   * [Ch 8: Data Visualization](#ch-2-)
+  
   * [Ch 9: Seaborn](#ch-2-)
+  Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
+
   * [Ch 10: Bokeh](#ch-2-)
+  
   * [Ch 11: Machine Learning](#ch-2-)
+  
   * [Ch 12: Scikit-Learn](#ch-2-)
+  
   * [Ch 13: Networkx](#ch-2-)
+  
   * [Ch 14: NLTK](#ch-2-)
+  
   * [Ch 15: DEAP](#ch-2-)
+  
   * [Ch 16: BioPython](#ch-2-)
+  
   * [Ch 17: Bibliography](#ch-2-)
 
 ---
