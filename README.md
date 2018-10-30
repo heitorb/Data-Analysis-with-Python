@@ -70,17 +70,17 @@ Table of Contents
 
 ##  [Ch 17: Bibliography](#ch-2-)
 
-[1] <i>Python for Data Science</i>. O'Reilly Media, .
-[2] <i>Data Science from Scratch</i>. O'Reilly Media, .
-[3] <i>Mastering Python Data Analysis</i>.
-[4] <i></i>.
-[5] <i></i>.
-[6] <i></i>.
-[7] <i></i>.
-[8] <i></i>.
-[9] <i></i>.
-[10] <i></i>.
-[11] <i></i>.
-[12] <i></i>.
-[13] Bassi, <i>Python for Bioinformatics</i>. Chapman and Hall.
+[1] W. McKinney, <i>Python for Data Science</i>. O'Reilly Media, 2013.<br>
+[2] J. Grus, <i>Data Science from Scratch: First Principles with Python</i>. O'Reilly Media, 2015.<br>
+[3] J. VanderPlas, <i>Python Data Science Handbook: Essential Tools for Working with Data</i>. O'Reilly Media, 2017.<br>
+[4] M. Heydt, <i>Mastering Python Data Analysis</i>. Packt Publishing, 2016.<br>
+[5] D. Y. Chen, <i>Pandas for Everyone: Python Data Analysis</i>. <br>
+[6] <i></i>.<br>
+[7] <i></i>.<br>
+[8] <i></i>.<br>
+[9] <i></i>.<br>
+[10] <i></i>.<br>
+[11] <i></i>.<br>
+[12] <i></i>.<br>
+[13] Bassi, <i>Python for Bioinformatics</i>. Chapman and Hall.<br>
 
